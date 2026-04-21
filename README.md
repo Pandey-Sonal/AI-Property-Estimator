@@ -4,10 +4,6 @@
 
 👉 https://your-vercel-app.vercel.app
 
-⚙️ Backend API
-
-👉 https://ai-property-estimator.onrender.com
-
 📄 API Docs
 
 👉 https://ai-property-estimator.onrender.com/docs
