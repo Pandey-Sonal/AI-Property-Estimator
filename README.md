@@ -2,7 +2,7 @@
 
 🌍 Live Demo
 
-👉 https://your-vercel-app.vercel.app
+👉 https://ai-property-estimator.vercel.app/
 
 📄 API Docs
 
