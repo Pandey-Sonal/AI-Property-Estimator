@@ -1,7 +1,16 @@
 # 🏡 AI Property Estimator
 
-🌍 **Live Demo:** https://ai-property-estimator.vercel.app/
-📦 **Backend API:** https://ai-property-estimator.onrender.com/docs
+🌍 Live Demo
+
+👉 https://your-vercel-app.vercel.app
+
+⚙️ Backend API
+
+👉 https://ai-property-estimator.onrender.com
+
+📄 API Docs
+
+👉 https://ai-property-estimator.onrender.com/docs
 
 ---
 
