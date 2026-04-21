@@ -8,7 +8,7 @@ import ResultCard from "@/components/ResultCard";
 import ComparisonSection from "@/components/ComparisonSection";
 import CorridorChart from "@/components/CorridorChart";
 
-const API = "http://127.0.0.1:8002";
+const API = "https://ai-property-estimator.onrender.com";
 
 const Index = () => {
   const [values, setValues] = useState<PredictInput>({
