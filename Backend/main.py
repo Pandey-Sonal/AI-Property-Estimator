@@ -1,6 +1,7 @@
 from fastapi import FastAPI
 from pydantic import BaseModel
 import joblib
+import os
 import numpy as np
 from fastapi.middleware.cors import CORSMiddleware
 
@@ -15,9 +16,10 @@ app.add_middleware(
     allow_headers=["*"],
 )
 
-# Load model
-model = joblib.load("model.pkl")
-encoder = joblib.load("encoder.pkl")
+BASE_DIR = os.path.dirname(os.path.abspath(__file__))
+
+model = joblib.load(os.path.join(BASE_DIR, "model.pkl"))
+encoder = joblib.load(os.path.join(BASE_DIR, "encoder.pkl"))
 
 # Input schema
 class Property(BaseModel):
