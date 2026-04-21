@@ -170,18 +170,6 @@ POST /compare
 This project demonstrates **end-to-end deployment of an ML application**.
 
 ---
-
-## 📸 Screenshots
-
-```
-<img width="1505" height="794" alt="image" src="https://github.com/user-attachments/assets/b5de2852-5472-434d-bc37-52e4635f5993" />
-<img width="1692" height="499" alt="image" src="https://github.com/user-attachments/assets/57d0c388-73e9-4cb1-8722-1074ce58c49e" />
-<img width="941" height="894" alt="image" src="https://github.com/user-attachments/assets/b9cb4284-ca9e-4bf7-acb8-789c7fa9b43d" />
-
-
-
-```
-
 ---
 
 ## 🎯 Future Improvements
